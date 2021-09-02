@@ -2,8 +2,4 @@ bla-bla
 
 dddd
 
-<<<<<<< Upstream, based on origin/master
-first
-=======
-fff
->>>>>>> da5dbcb bbb
+first + second
